@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Route 1"
+    },
+    {
+      "id": 2,
+      "title": "Route 2"
+    },
+    {
+      "id": 3,
+      "title": "Route 3"
+    },
+    {
+      "id": 4,
+      "title": "Route 4"
+    }
+  ],
+
+  "profile": {
+    "name": "Leonwsl1995"
+  }
+}
